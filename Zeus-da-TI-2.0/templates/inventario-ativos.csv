@@ -1,0 +1,2 @@
+asset_id,asset_name,asset_type,environment,scope_status,criticality,owner_role,dependencies,data_classification,evidence_ref,confidence,observed_at
+A-001,Aplicacao-Demo,web_app,lab,in_scope,medium,Equipe-Lab,IDENT-01,synthetic,E-001,high,2026-11-16T10:00:00-03:00

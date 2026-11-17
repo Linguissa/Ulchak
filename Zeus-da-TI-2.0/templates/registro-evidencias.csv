@@ -1,0 +1,2 @@
+evidence_id,finding_id,asset_id,observed_at,collector_role,method,observation,interpretation,limitations,classification,storage_reference
+E-001,F-001,A-001,2026-11-16T10:00:00-03:00,student,review_config,"Exemplo ficticio de configuracao","Possivel controle ausente","Amostra sintetica; nao confirma explorabilidade",internal,secure-folder/E-001
